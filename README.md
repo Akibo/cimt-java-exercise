@@ -12,7 +12,9 @@ Dies ist die Repository für die Java-Übungsaufgabe. Es werden zwei API-Endpunk
 
 Das Projekt ist in controllers, models und services aufgeteilt.
 
-├── demo/src/main/java/com/exercise/application
-│   ├── controllers
-│   ├── models
-│   ├── services
+```
+demo/src/main/java/com/exercise/application
+└─── controllers
+└─── models
+└─── services
+```
